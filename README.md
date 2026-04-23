@@ -1,6 +1,6 @@
 <!-- 🌊 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Lakshmi%20Samineni&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:008080&height=180&section=header&text=Lakshmi%20Samineni&fontSize=40&fontColor=ffffff" />
 </p>
 
 # 👋 Hi!
@@ -31,5 +31,5 @@ To grow as a developer and engineer through hands-on projects 🌍
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:008080&height=120&section=footer"/>
 </p>
